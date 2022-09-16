@@ -1,12 +1,8 @@
-# Liquid Splits
+# Liquid Split
 
-- the unofficial plug-in for the [0xSplits](https://www.0xsplits.xyz/) hyperstructure. 🔌
+- the unofficial plug-in for the [0xSplits](https://www.0xsplits.xyz/) hyperstructure. 
 
 ### Features
-
-- bring-your-own-nft. 🌈
-- equitable when one holder owns multiple nfts. 💰
-- supports Zora / OpenSea / 0xSplits / etc. 🍄
 
 ### Example
 
